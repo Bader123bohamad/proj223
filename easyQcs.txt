@@ -6,71 +6,71 @@ easy cs questions
 easy cs questions
 
 What does HTML stand for?
-Hyper Text Markup Language
-High Tech Markup Language
-Home Tool Markup Language
-Hyperlink and Text Markup Language
-Hyper Text Markup Language
+1-Hyper Text Markup Language
+2-High Tech Markup Language
+3-Home Tool Markup Language
+4-Hyperlink and Text Markup Language
+1
 
 Which programming language is commonly used for web development?
-Python
-Java
-C++
-JavaScript
-JavaScript
+1-Python
+2-Java
+3-C++
+4-JavaScript
+4
 
 What does CSS stand for?
-Computer Style Sheets
-Cascading Style Sheets
-Creative Style Sheets
-Custom Style Sheets
-Cascading Style Sheets
+1-Computer Style Sheets
+2-Cascading Style Sheets
+3-Creative Style Sheets
+4-Custom Style Sheets
+4
 
 What is the main function of a compiler?
-Executes code line by line
-Converts high-level language code to machine code
-Manages memory allocation
-Handles user inputs
-Converts high-level language code to machine code
+1-Executes code line by line
+2-Converts high-level language code to machine code
+3-Manages memory allocation
+4-Handles user inputs
+2
 
 Which data structure uses Last In, First Out (LIFO) principle?
-Queue
-Stack
-Linked List
-Tree
-Stack
+1-Queue
+2-Stack
+3-Linked List
+4-Tree
+2
 
 What does SQL stand for?
-Structured Query Language
-Standard Query Language
-Sequential Query Language
-System Query Language
-Structured Query Language
+1-Structured Query Language
+2-Standard Query Language
+3-Sequential Query Language
+4-System Query Language
+1
 
 Which type of programming language uses a graphical interface for coding?
-High-level language
-Low-level language
-Assembly language
-Visual programming language
-Visual programming language
+1-High-level language
+2-Low-level language
+3-Assembly language
+4-Visual programming language
+4
 
 What is the purpose of the 'if' statement in programming?
-To declare variables
-To perform arithmetic operations
-To control the flow of execution based on a condition
-To print output to the console
-To control the flow of execution based on a condition
+1-To declare variables
+2-To perform arithmetic operations
+3-To control the flow of execution based on a condition
+4-To print output to the console
+3
 
 What is a variable in programming?
-A data structure to store multiple values
-A reserved memory location to store data
-An operator to perform mathematical operations
-A function to execute a specific task
-A reserved memory location to store data
+1-A data structure to store multiple values
+2-A reserved memory location to store data
+3-An operator to perform mathematical operations
+4-A function to execute a specific task
+2
 
 What is the binary equivalent of the decimal number 10?
-1010
-1100
-1111
-1001
-1010
+1-1010
+2-1100
+3-1111
+4-1001
+1
