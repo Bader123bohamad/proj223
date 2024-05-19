@@ -1,0 +1,76 @@
+easy cs questions
+easy cs questions
+easy cs questions
+easy cs questions
+easy cs questions
+easy cs questions
+
+What does HTML stand for?
+Hyper Text Markup Language
+High Tech Markup Language
+Home Tool Markup Language
+Hyperlink and Text Markup Language
+Hyper Text Markup Language
+
+Which programming language is commonly used for web development?
+Python
+Java
+C++
+JavaScript
+JavaScript
+
+What does CSS stand for?
+Computer Style Sheets
+Cascading Style Sheets
+Creative Style Sheets
+Custom Style Sheets
+Cascading Style Sheets
+
+What is the main function of a compiler?
+Executes code line by line
+Converts high-level language code to machine code
+Manages memory allocation
+Handles user inputs
+Converts high-level language code to machine code
+
+Which data structure uses Last In, First Out (LIFO) principle?
+Queue
+Stack
+Linked List
+Tree
+Stack
+
+What does SQL stand for?
+Structured Query Language
+Standard Query Language
+Sequential Query Language
+System Query Language
+Structured Query Language
+
+Which type of programming language uses a graphical interface for coding?
+High-level language
+Low-level language
+Assembly language
+Visual programming language
+Visual programming language
+
+What is the purpose of the 'if' statement in programming?
+To declare variables
+To perform arithmetic operations
+To control the flow of execution based on a condition
+To print output to the console
+To control the flow of execution based on a condition
+
+What is a variable in programming?
+A data structure to store multiple values
+A reserved memory location to store data
+An operator to perform mathematical operations
+A function to execute a specific task
+A reserved memory location to store data
+
+What is the binary equivalent of the decimal number 10?
+1010
+1100
+1111
+1001
+1010

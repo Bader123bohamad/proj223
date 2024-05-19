@@ -1,0 +1,41 @@
+hard cs questions
+hard cs questions
+hard cs questions
+hard cs questions
+hard cs questions
+hard cs questions
+    
+What is the Big O notation for the worst-case time complexity of the Quicksort algorithm?
+O(n log n)
+O(n^2)
+O(log n)
+O(1)
+O(n^2)
+
+In C/C++, what is a "volatile" variable?
+A variable that cannot be modified after initialization
+A variable that is shared between multiple threads and can be modified unexpectedly
+A variable that is accessed frequently and stored in the CPU cache for faster access
+A variable that is declared inside a function and has a limited scope
+A variable that is shared between multiple threads and can be modified unexpectedly
+
+What is the purpose of a virtual destructor in C++?
+To deallocate memory allocated to an object
+To prevent memory leaks in polymorphic class hierarchies
+To allow dynamic binding of destructor calls
+To enforce encapsulation and data hiding
+To allow dynamic binding of destructor calls
+
+Explain the concept of multithreading in computer programming.
+Multithreading allows multiple processes to run simultaneously on a single processor core.
+Multithreading allows a single process to perform multiple tasks concurrently.
+Multithreading improves the performance of a program by utilizing multiple processor cores.
+Multithreading allows multiple processes to communicate with each other.
+Multithreading allows a single process to perform multiple tasks concurrently.
+
+What is the purpose of the "decltype" keyword in C++?
+declare a type that depends on the type of an expression
+define a new data type
+To specify the return type of a function
+To declare a constant variable
+To declare a type that depends on the type of an expression
