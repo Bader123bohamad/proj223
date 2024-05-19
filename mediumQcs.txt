@@ -1,0 +1,76 @@
+medium cs questions
+medium cs questions
+medium cs questions
+medium cs questions
+medium cs questions
+medium cs questions
+   
+What is the purpose of the sizeof operator in C/C++?
+To return the size of a variable or data type in bytes
+To allocate memory dynamically
+To perform arithmetic operations
+To define the size of an array
+To return the size of a variable or data type in bytes
+
+What is the difference between malloc() and calloc() in C/C++?
+malloc() allocates uninitialized memory, while calloc() initializes it to zero
+malloc() allocates initialized memory, while calloc() does not
+malloc() do not allocates initialized memory, while calloc()allocates uninitialized memory
+malloc() allocates zero-initialized memory, while calloc() allocates uninitialized memory
+malloc() allocates uninitialized memory, while calloc() initializes it to zero
+
+What is a pointer in C/C++?
+A variable that stores the memory address of another variable
+A variable that stores multiple values
+A data type used to represent characters
+A keyword used to define functions
+A variable that stores the memory address of another variable
+
+What is the purpose of the break statement in C/C++?
+To exit a loop or switch statement
+To skip the current loop iteration
+To jump to the next case label
+To repeat a block of code
+To exit a loop or switch statement
+
+Which component temporarily stores data during program execution?
+CPU
+RAM
+Hard Drive
+Motherboard
+RAM
+
+What does a GPU do in a computer?
+Executes complex calculations
+Regulates electricity
+Manages input/output devices
+Renders graphics
+Renders graphics
+
+What is an array in C/C++?
+A structure to store multiple values of the same type
+A variable that stores memory addresses
+A keyword for defining functions
+A data type for characters
+A structure to store multiple values of the same type
+
+What does void indicate in a function declaration in C/C++?
+The function returns no value
+The function takes no arguments
+The function is private
+The function is static
+The function returns no value
+
+What is the purpose of strcpy() in C/C++?
+To compare two strings
+To concatenate two strings
+To copy one string to another
+To find the length of a string
+To copy one string to another
+
+What is the difference between ++i and i++ in C/C++?
+plus plus i increments before returning, i++ increments after
+plus plus i increments after returning, i++ increments before
+plus plus i and i++ are the same
+plus plus i and i++ both return without incrementing
+plus plus i increments before returning, i++ increments after
